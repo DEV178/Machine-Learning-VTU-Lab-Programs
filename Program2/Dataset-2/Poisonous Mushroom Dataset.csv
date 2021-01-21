@@ -1,5 +1,0 @@
-color,size,shape,land,air humidity,texture,Label
-red,small,round,humid,low,smooth,Poisonous
-red,small,elongated,humid,low,smooth,Poisonous
-gray,large,elongated,humid,low,rough,Non Poisonous
-red,small,elongated,humid,high,rough,Poisonous
